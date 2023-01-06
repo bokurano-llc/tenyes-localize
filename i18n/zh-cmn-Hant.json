@@ -258,5 +258,6 @@
 	"Media has been sent.": "媒體已被發送。",
 	"Stamps sent": "發送的郵票",
 	"Failed to create DM channel Err:2": "創建DM通道失敗 Err:2",
-	"Report friend": "報告朋友"
+	"Report friend": "報告朋友",
+	"ATO": ""
 }
