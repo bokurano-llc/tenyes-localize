@@ -10,6 +10,7 @@
 	"Sign in with Google": "Войти в систему с помощью Google",
 	"Log in with Apple": "Войдите в систему с помощью Apple",
 	"Authentication code has been sent to ": "Код аутентификации был отправлен на ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Введите свой адрес электронной почты.",
 	"An authentication code will be sent to the email address you entered.": "На указанный вами адрес электронной почты будет отправлен код аутентификации.",
 	"Enter the verification code sent to your email.": "Введите проверочный код, отправленный на вашу электронную почту.",
@@ -70,6 +71,7 @@
 	"Views": "Просмотры",
 	"Total viewed by friends": "Общее количество просмотров друзьями",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "больше друзей для разблокировки",
 	"You have opened Tenyes world for": "Вы открыли мир Тенис для ",
 	"consecutive days.": "дней подряд.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Средства массовой информации отправлены.",
 	"Stamps sent": "Отправленные марки",
 	"Failed to create DM channel Err:2": "Не удалось создать DM-канал Err:2",
-	"Report friend": "Сообщить другу",
-	"ATO": ""
+	"Tenyes Map": "Карта Тениеса",
+	"Report friend": "Сообщить другу"
 }

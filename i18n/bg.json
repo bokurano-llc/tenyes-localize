@@ -10,6 +10,7 @@
 	"Sign in with Google": "Влезте в Google",
 	"Log in with Apple": "Влезте в профила си с Apple",
 	"Authentication code has been sent to ": "Кодът за удостоверяване на автентичността е изпратен на ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Въведете имейл адреса си.",
 	"An authentication code will be sent to the email address you entered.": "На въведения от вас имейл адрес ще бъде изпратен код за удостоверяване.",
 	"Enter the verification code sent to your email.": "Въведете кода за проверка, изпратен на имейла ви.",
@@ -70,6 +71,7 @@
 	"Views": "Прегледи",
 	"Total viewed by friends": "Общ брой прегледи от приятели",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "повече приятели за отключване",
 	"You have opened Tenyes world for": "Отворили сте света на Тениес за ",
 	"consecutive days.": "последователни дни.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Медията е изпратена.",
 	"Stamps sent": "Изпратени пощенски марки",
 	"Failed to create DM channel Err:2": "Неуспешно създаване на DM канал Err:2",
-	"Report friend": "Докладване на приятел",
-	"ATO": ""
+	"Tenyes Map": "Тениес Карта",
+	"Report friend": "Докладване на приятел"
 }

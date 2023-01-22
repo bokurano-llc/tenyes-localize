@@ -10,6 +10,7 @@
 	"Sign in with Google": "Přihlášení pomocí služby Google",
 	"Log in with Apple": "Přihlášení pomocí Apple",
 	"Authentication code has been sent to ": "Ověřovací kód byl odeslán na adresu ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Zadejte svou e-mailovou adresu.",
 	"An authentication code will be sent to the email address you entered.": "Na zadanou e-mailovou adresu bude zaslán ověřovací kód.",
 	"Enter the verification code sent to your email.": "Zadejte ověřovací kód zaslaný na váš e-mail.",
@@ -70,6 +71,7 @@
 	"Views": "Zobrazení",
 	"Total viewed by friends": "Celkový počet zobrazení přáteli",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "více přátel k odemknutí",
 	"You have opened Tenyes world for": "Otevřeli jste Tenyes svět pro ",
 	"consecutive days.": "po sobě jdoucích dnů.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Média byla odeslána.",
 	"Stamps sent": "Odeslané známky",
 	"Failed to create DM channel Err:2": "Nepodařilo se vytvořit kanál DM Chyba:2",
-	"Report friend": "Nahlásit přítele",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Mapa",
+	"Report friend": "Nahlásit přítele"
 }

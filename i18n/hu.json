@@ -10,6 +10,7 @@
 	"Sign in with Google": "Bejelentkezés a Google segítségével",
 	"Log in with Apple": "Bejelentkezés az Apple alkalmazással",
 	"Authentication code has been sent to ": "A hitelesítési kódot elküldték a ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Írja be az e-mail címét.",
 	"An authentication code will be sent to the email address you entered.": "Egy hitelesítési kódot küldünk a megadott e-mail címre.",
 	"Enter the verification code sent to your email.": "Írja be az e-mail címére küldött ellenőrző kódot.",
@@ -70,6 +71,7 @@
 	"Views": "Nézettség",
 	"Total viewed by friends": "A barátok által megtekintettek száma összesen",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "több barátot kell feloldani",
 	"You have opened Tenyes world for": "Megnyitottad Tenyes világát ",
 	"consecutive days.": "egymást követő napokon.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "A médiát elküldtük.",
 	"Stamps sent": "Küldött bélyegek",
 	"Failed to create DM channel Err:2": "Nem sikerült DM csatornát létrehozni Err:2",
-	"Report friend": "Barátot jelenteni",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Térkép",
+	"Report friend": "Barátot jelenteni"
 }

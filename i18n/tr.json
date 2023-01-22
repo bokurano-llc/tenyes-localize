@@ -10,6 +10,7 @@
 	"Sign in with Google": "Google ile oturum açın",
 	"Log in with Apple": "Apple ile giriş yapın",
 	"Authentication code has been sent to ": "Kimlik doğrulama kodu şu adrese gönderildi ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "E-posta adresinizi girin.",
 	"An authentication code will be sent to the email address you entered.": "Girdiğiniz e-posta adresine bir kimlik doğrulama kodu gönderilecektir.",
 	"Enter the verification code sent to your email.": "E-postanıza gönderilen doğrulama kodunu girin.",
@@ -70,6 +71,7 @@
 	"Views": "Görünümler",
 	"Total viewed by friends": "Arkadaşlar tarafından görüntülenen toplam sayı",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "kilidini açmak için daha fazla arkadaş",
 	"You have opened Tenyes world for": "Tenyes'in dünyasını ",
 	"consecutive days.": "ardışık günler.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Medya gönderildi.",
 	"Stamps sent": "Gönderilen pullar",
 	"Failed to create DM channel Err:2": "DM kanalı oluşturulamadı Err:2",
-	"Report friend": "Arkadaşını bildir",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Haritası",
+	"Report friend": "Arkadaşını bildir"
 }

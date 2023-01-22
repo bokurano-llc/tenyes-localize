@@ -10,6 +10,7 @@
 	"Sign in with Google": "Log på med Google",
 	"Log in with Apple": "Log ind med Apple",
 	"Authentication code has been sent to ": "Autentifikationskode er blevet sendt til ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Indtast din e-mailadresse.",
 	"An authentication code will be sent to the email address you entered.": "Der sendes en godkendelseskode til den e-mailadresse, du har angivet.",
 	"Enter the verification code sent to your email.": "Indtast den bekræftelseskode, der er sendt til din e-mail.",
@@ -70,6 +71,7 @@
 	"Views": "Visninger",
 	"Total viewed by friends": "Samlet antal besøg af venner",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "flere venner at låse op for",
 	"You have opened Tenyes world for": "Du har åbnet Tenyes verden for ",
 	"consecutive days.": "på hinanden følgende dage.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Mediet er blevet sendt.",
 	"Stamps sent": "Afsendte frimærker",
 	"Failed to create DM channel Err:2": "Det mislykkedes at oprette DM-kanal Err:2",
-	"Report friend": "Anmeld ven",
-	"ATO": ""
+	"Tenyes Map": "Kort over Tenyes",
+	"Report friend": "Anmeld ven"
 }

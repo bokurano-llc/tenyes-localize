@@ -10,6 +10,7 @@
 	"Sign in with Google": "Συνδεθείτε με το Google",
 	"Log in with Apple": "Συνδεθείτε με την Apple",
 	"Authentication code has been sent to ": "Ο κωδικός πιστοποίησης έχει αποσταλεί στο ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Εισάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας.",
 	"An authentication code will be sent to the email address you entered.": "Ένας κωδικός ελέγχου ταυτότητας θα αποσταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου που δηλώσατε.",
 	"Enter the verification code sent to your email.": "Εισάγετε τον κωδικό επαλήθευσης που εστάλη στο email σας.",
@@ -70,6 +71,7 @@
 	"Views": "Προβολές",
 	"Total viewed by friends": "Συνολικός αριθμός προβολών από φίλους",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "περισσότεροι φίλοι για να ξεκλειδώσετε",
 	"You have opened Tenyes world for": "Ανοίξατε τον κόσμο του Tenyes για ",
 	"consecutive days.": "συνεχόμενες ημέρες.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Τα μέσα ενημέρωσης έχουν αποσταλεί.",
 	"Stamps sent": "Σφραγίδες που αποστέλλονται",
 	"Failed to create DM channel Err:2": "Απέτυχε η δημιουργία καναλιού DM Err:2",
-	"Report friend": "Αναφορά φίλου",
-	"ATO": ""
+	"Tenyes Map": "Χάρτης Tenyes",
+	"Report friend": "Αναφορά φίλου"
 }

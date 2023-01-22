@@ -10,6 +10,7 @@
 	"Sign in with Google": "Masuk dengan Google",
 	"Log in with Apple": "Masuk dengan Apple",
 	"Authentication code has been sent to ": "Kode otentikasi telah dikirim ke ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Masukkan alamat email Anda.",
 	"An authentication code will be sent to the email address you entered.": "Kode autentikasi akan dikirim ke alamat email yang Anda masukkan.",
 	"Enter the verification code sent to your email.": "Masukkan kode verifikasi yang dikirim ke email Anda.",
@@ -70,6 +71,7 @@
 	"Views": "Tampilan",
 	"Total viewed by friends": "Jumlah total dilihat oleh teman",
 	"Times": "Waktu",
+	"ATO": "",
 	"more friends to unlock": "lebih banyak teman untuk dibuka",
 	"You have opened Tenyes world for": "Anda telah membuka dunia Tenyes untuk ",
 	"consecutive days.": "hari berturut-turut.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Media telah dikirim.",
 	"Stamps sent": "Perangko yang dikirim",
 	"Failed to create DM channel Err:2": "Gagal membuat saluran DM Err:2",
-	"Report friend": "Laporkan teman",
-	"ATO": ""
+	"Tenyes Map": "Peta Tenyes",
+	"Report friend": "Laporkan teman"
 }

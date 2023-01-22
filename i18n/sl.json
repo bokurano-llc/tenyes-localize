@@ -10,6 +10,7 @@
 	"Sign in with Google": "Iniciar sesión con Google",
 	"Log in with Apple": "Iniciar sesión con Apple",
 	"Authentication code has been sent to ": "Se ha enviado el código de autenticación a ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Introduzca su dirección de correo electrónico.",
 	"An authentication code will be sent to the email address you entered.": "Se enviará un código de autenticación a la dirección de correo electrónico que haya introducido.",
 	"Enter the verification code sent to your email.": "Introduzca el código de verificación enviado a su correo electrónico.",
@@ -70,6 +71,7 @@
 	"Views": "Vistas",
 	"Total viewed by friends": "Número total de visitas de amigos",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "más amigos por desbloquear",
 	"You have opened Tenyes world for": "Has abierto el mundo de Tenyes para ",
 	"consecutive days.": "días consecutivos.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Se han enviado los medios.",
 	"Stamps sent": "Sellos enviados",
 	"Failed to create DM channel Err:2": "Error al crear canal DM Err:2",
-	"Report friend": "Prijava prijatelja",
-	"ATO": ""
+	"Tenyes Map": "Zemljevid Tenyes",
+	"Report friend": "Prijava prijatelja"
 }

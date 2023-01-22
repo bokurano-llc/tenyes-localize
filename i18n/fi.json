@@ -10,6 +10,7 @@
 	"Sign in with Google": "Kirjaudu sisään Googlen avulla",
 	"Log in with Apple": "Kirjaudu sisään Applen kanssa",
 	"Authentication code has been sent to ": "Tunnistuskoodi on lähetetty osoitteeseen ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Kirjoita sähköpostiosoitteesi.",
 	"An authentication code will be sent to the email address you entered.": "Tunnistuskoodi lähetetään antamaasi sähköpostiosoitteeseen.",
 	"Enter the verification code sent to your email.": "Syötä sähköpostiisi lähetetty vahvistuskoodi.",
@@ -70,6 +71,7 @@
 	"Views": "Näkymät",
 	"Total viewed by friends": "Ystävien katsomien kokonaislukumäärä",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "lisää ystäviä avattavaksi",
 	"You have opened Tenyes world for": "Olet avannut Tenyesin maailman ",
 	"consecutive days.": "peräkkäisinä päivinä.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Media on lähetetty.",
 	"Stamps sent": "Lähetetyt postimerkit",
 	"Failed to create DM channel Err:2": "DM-kanavan luominen epäonnistui Err:2",
-	"Report friend": "Ilmoita ystävästä",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Kartta",
+	"Report friend": "Ilmoita ystävästä"
 }

@@ -10,6 +10,7 @@
 	"Sign in with Google": "用谷歌登录",
 	"Log in with Apple": "用苹果登录",
 	"Authentication code has been sent to ": "认证码已发送至 ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "输入你的电子邮件地址。",
 	"An authentication code will be sent to the email address you entered.": "一个认证码将被发送到你输入的电子邮件地址。",
 	"Enter the verification code sent to your email.": "输入发送到你邮箱的验证码。",
@@ -70,6 +71,7 @@
 	"Views": "观点",
 	"Total viewed by friends": "朋友浏览的总次数",
 	"Times": "时代",
+	"ATO": "",
 	"more friends to unlock": "更多的朋友需要解锁",
 	"You have opened Tenyes world for": "你已经为Tenyes打开了世界 ",
 	"consecutive days.": "连续几天。",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "媒体已被发送。",
 	"Stamps sent": "发送的邮票",
 	"Failed to create DM channel Err:2": "创建DM通道失败 Err:2",
-	"Report friend": "报告朋友",
-	"ATO": ""
+	"Tenyes Map": "特尼耶地图",
+	"Report friend": "报告朋友"
 }

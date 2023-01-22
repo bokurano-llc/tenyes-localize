@@ -10,6 +10,7 @@
 	"Sign in with Google": "Aanmelden met Google",
 	"Log in with Apple": "Inloggen met Apple",
 	"Authentication code has been sent to ": "Authenticatiecode is verzonden naar ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Voer uw e-mailadres in.",
 	"An authentication code will be sent to the email address you entered.": "Een verificatiecode wordt naar het door u opgegeven e-mailadres gestuurd.",
 	"Enter the verification code sent to your email.": "Voer de verificatiecode in die naar uw e-mail is gestuurd.",
@@ -70,6 +71,7 @@
 	"Views": "Views",
 	"Total viewed by friends": "Totaal aantal bekeken door vrienden",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "meer vrienden om vrij te spelen",
 	"You have opened Tenyes world for": "Je hebt Tenyes wereld geopend voor ",
 	"consecutive days.": "opeenvolgende dagen.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Media is verzonden.",
 	"Stamps sent": "Verzonden postzegels",
 	"Failed to create DM channel Err:2": "Gefaald om DM-kanaal aan te maken Err:2",
-	"Report friend": "Verslag vriend",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Kaart",
+	"Report friend": "Verslag vriend"
 }

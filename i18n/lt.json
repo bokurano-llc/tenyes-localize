@@ -10,6 +10,7 @@
 	"Sign in with Google": "Prisijunkite su \"Google",
 	"Log in with Apple": "Prisijunkite su \"Apple",
 	"Authentication code has been sent to ": "Autentifikavimo kodas išsiųstas į ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Įveskite savo el. pašto adresą.",
 	"An authentication code will be sent to the email address you entered.": "Į jūsų įvestą el. pašto adresą bus išsiųstas autentifikavimo kodas.",
 	"Enter the verification code sent to your email.": "Įveskite į el. paštą atsiųstą patvirtinimo kodą.",
@@ -70,6 +71,7 @@
 	"Views": "Peržiūros",
 	"Total viewed by friends": "Bendras draugų peržiūrų skaičius",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "atrakinti daugiau draugų",
 	"You have opened Tenyes world for": "Jūs atvėrėte Tenyes pasaulį ",
 	"consecutive days.": "dienų iš eilės.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Žiniasklaida išsiųsta.",
 	"Stamps sent": "Išsiųsti antspaudai",
 	"Failed to create DM channel Err:2": "Nepavyko sukurti DM kanalo Klaida:2",
-	"Report friend": "Praneškite apie draugą",
-	"ATO": ""
+	"Tenyes Map": "Tenyes žemėlapis",
+	"Report friend": "Praneškite apie draugą"
 }

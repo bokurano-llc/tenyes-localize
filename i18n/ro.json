@@ -10,6 +10,7 @@
 	"Sign in with Google": "Conectați-vă cu Google",
 	"Log in with Apple": "Conectați-vă cu Apple",
 	"Authentication code has been sent to ": "Codul de autentificare a fost trimis la ",
+	"JP Authentication code has been sent to": "",
 	"Enter your email address.": "Introduceți adresa dvs. de e-mail.",
 	"An authentication code will be sent to the email address you entered.": "Un cod de autentificare va fi trimis la adresa de e-mail pe care ați introdus-o.",
 	"Enter the verification code sent to your email.": "Introduceți codul de verificare trimis la adresa dvs. de e-mail.",
@@ -70,6 +71,7 @@
 	"Views": "Vizualizări",
 	"Total viewed by friends": "Numărul total de vizualizări de către prieteni",
 	"Times": "Times",
+	"ATO": "",
 	"more friends to unlock": "mai mulți prieteni de deblocat",
 	"You have opened Tenyes world for": "Ați deschis lumea lui Tenyes pentru ",
 	"consecutive days.": "zile consecutive.",
@@ -258,6 +260,6 @@
 	"Media has been sent.": "Mass-media a fost trimisă.",
 	"Stamps sent": "Timbrele trimise",
 	"Failed to create DM channel Err:2": "Nu s-a reușit crearea canalului DM Err:2",
-	"Report friend": "Raportează un prieten",
-	"ATO": ""
+	"Tenyes Map": "Tenyes Harta",
+	"Report friend": "Raportează un prieten"
 }
