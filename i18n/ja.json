@@ -261,5 +261,7 @@
 	"sent message": "からメッセージ",
 	"Media has been sent.": "メディアが送信されました。",
 	"Stamps sent": "からスタンプ",
-	"Failed to create DM channel Err:2": "DMチャンネルの作成に失敗しました Err:2"
+	"Failed to create DM channel Err:2": "DMチャンネルの作成に失敗しました Err:2",
+	"next unlock at ": "次の解除まで ",
+	" days": " 日"
 }
