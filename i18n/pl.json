@@ -261,5 +261,7 @@
 	"Stamps sent": "Znaczki wysłane",
 	"Failed to create DM channel Err:2": "Nie udało się utworzyć kanału DM Err:2",
 	"Tenyes Map": "Mapa Tenyes",
-	"Report friend": "Zgłoś przyjaciela"
+	"Report friend": "Zgłoś przyjaciela",
+	"next unlock at ": "następne odblokowanie przy ",
+	" days": " dni"
 }

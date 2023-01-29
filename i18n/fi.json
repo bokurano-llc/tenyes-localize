@@ -261,5 +261,7 @@
 	"Stamps sent": "Lähetetyt postimerkit",
 	"Failed to create DM channel Err:2": "DM-kanavan luominen epäonnistui Err:2",
 	"Tenyes Map": "Tenyes Kartta",
-	"Report friend": "Ilmoita ystävästä"
+	"Report friend": "Ilmoita ystävästä",
+	"next unlock at ": "seuraava lukituksen avaus osoitteessa ",
+	" days": " päivät"
 }

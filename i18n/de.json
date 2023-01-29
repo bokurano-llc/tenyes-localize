@@ -261,5 +261,7 @@
 	"Stamps sent": "Gesendete Briefmarken",
 	"Failed to create DM channel Err:2": "DM-Kanal konnte nicht erstellt werden Err:2",
 	"Tenyes Map": "Tenyes Karte",
-	"Report friend": "Freund melden"
+	"Report friend": "Freund melden",
+	"next unlock at ": "nächste Freischaltung bei ",
+	" days": " Tage"
 }

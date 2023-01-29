@@ -261,5 +261,7 @@
 	"Stamps sent": "Sellos enviados",
 	"Failed to create DM channel Err:2": "Error al crear canal DM Err:2",
 	"Tenyes Map": "Tenyes Mapa",
-	"Report friend": "Nahlásiť priateľa"
+	"Report friend": "Nahlásiť priateľa",
+	"next unlock at ": "ďalšie odomknutie na ",
+	" days": " dni"
 }

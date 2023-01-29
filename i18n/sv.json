@@ -261,5 +261,7 @@
 	"Stamps sent": "Avsända frimärken",
 	"Failed to create DM channel Err:2": "Misslyckades med att skapa en DM-kanal Err:2",
 	"Tenyes Map": "Karta över Tenyes",
-	"Report friend": "Rapportera vän"
+	"Report friend": "Rapportera vän",
+	"next unlock at ": "nästa upplåsning på ",
+	" days": " dagar"
 }

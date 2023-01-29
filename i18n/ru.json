@@ -261,5 +261,7 @@
 	"Stamps sent": "Отправленные марки",
 	"Failed to create DM channel Err:2": "Не удалось создать DM-канал Err:2",
 	"Tenyes Map": "Карта Тениеса",
-	"Report friend": "Сообщить другу"
+	"Report friend": "Сообщить другу",
+	"next unlock at ": "следующая разблокировка в ",
+	" days": " дней"
 }

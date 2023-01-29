@@ -261,5 +261,7 @@
 	"Stamps sent": "Saadetud margid",
 	"Failed to create DM channel Err:2": "DM-kanali loomine ebaõnnestus Err:2",
 	"Tenyes Map": "Tenyes kaart",
-	"Report friend": "Aruanne sõber"
+	"Report friend": "Aruanne sõber",
+	"next unlock at ": "järgmine avamine aadressil ",
+	" days": " päevad"
 }

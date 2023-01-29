@@ -261,5 +261,7 @@
 	"Stamps sent": "Carimbos enviados",
 	"Failed to create DM channel Err:2": "Falha na criação do canal DM Err:2",
 	"Tenyes Map": "Mapa Tenyes",
-	"Report friend": "Relatar amigo"
+	"Report friend": "Relatar amigo",
+	"next unlock at ": "próximo desbloquear em ",
+	" days": " dias"
 }
