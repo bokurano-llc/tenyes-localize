@@ -261,5 +261,7 @@
 	"Stamps sent": "發送的郵票",
 	"Failed to create DM channel Err:2": "創建DM通道失敗 Err:2",
 	"Report friend": "報告朋友",
+	"next unlock at ": "下一次解锁是在 ",
+	" days": "天",
 	"ATO": ""
 }
