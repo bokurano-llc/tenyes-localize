@@ -137,7 +137,7 @@
 	"Unblocking": "Oppheving av blokkering",
 	"You were unable to unblock.": "Du klarte ikke å oppheve blokkeringen.",
 	"Cannot unblock myself.": "Kan ikke oppheve blokkeringen selv.",
-	"You have been unblocked!": "Du har blitt blokkert!",
+	"You have been unblocked!": "Du har blitt opphevet!",
 	"Unblock and friend request": "Opphev blokkering og venneforespørsel",
 	"Unblocked and friend request failed.": "Opphevet blokkering og venneforespørsel mislyktes.",
 	"You are an unblocked person.": "Du er en person som ikke er blokkert.",
@@ -254,7 +254,7 @@
 	"My ID is this": "ID-en min er denne",
 	"Enjoy!!!": "Kos deg!!!",
 	"Will be added in the next update!!!!": "Vil bli lagt til i neste oppdatering!!!!",
-	"Please change the use of location information to Always Allow.": "Vennligst endre bruk av stedsinformasjon til Alltid tillate.",
+	"Please change the use of location information to Always Allow.": "Vennligst endre bruken av stedsinformasjon til Alltid tillate.",
 	"In order to share accurate location information with your friends, you must always change the use of location information to Allow.": "For å dele nøyaktig posisjonsinformasjon med vennene dine må du alltid endre bruken av posisjonsinformasjon til Tillat.",
 	"Always change to permit": "Endre alltid til tillatelse",
 	"sent message": "sendt melding",
@@ -262,5 +262,6 @@
 	"Stamps sent": "Frimerker sendt",
 	"Failed to create DM channel Err:2": "Mislyktes med å opprette DM-kanal Err:2",
 	"next unlock at ": "neste opplåsing ved ",
-	" days": " dager"
+	" days": " dager",
+	"ATO": ""
 }

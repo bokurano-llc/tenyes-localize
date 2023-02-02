@@ -1,0 +1,267 @@
+{
+	"JP Authentication code has been sent to": "",
+	"ATO": "",
+	"By tapping `I agree to the Terms of Service`, you agree to the Privacy Policy and Terms of Service.": "ٽيپ ڪندي `مان خدمت جي شرطن سان متفق آهيان`، توهان متفق آهيو رازداري پاليسي ۽ خدمت جي شرطن سان.",
+	"Login after agreeing to the Terms of Use.": "استعمال جي شرطن تي متفق ٿيڻ کان پوء لاگ ان ڪريو.",
+	"Hello! What's your name?": "سلام! توهان جو نالو ڇا آهي؟",
+	"Names that are easy to recognize by friends are good👌": "اهي نالا جيڪي دوست سڃاڻڻ ۾ آسان آهن سٺا آهن",
+	"Hello.": "سلام.",
+	"Give me your birth date!": "مون کي پنهنجي ڄمڻ جي تاريخ ڏيو!",
+	"Option": "اختيار",
+	"Sign in with Email": "اي ميل سان سائن ان ڪريو",
+	"Sign in with Google": "گوگل سان سائن ان ڪريو",
+	"Log in with Apple": "ايپل سان لاگ ان ڪريو",
+	"Authentication code has been sent to ": "تصديقي ڪوڊ موڪليو ويو آهي",
+	"Enter your email address.": "پنهنجو اي ميل پتو داخل ڪريو.",
+	"An authentication code will be sent to the email address you entered.": "هڪ تصديق ڪوڊ موڪليو ويندو اي ميل پتي تي جيڪو توهان داخل ڪيو آهي.",
+	"Enter the verification code sent to your email.": "توهان جي اي ميل تي موڪليو ويو تصديقي ڪوڊ داخل ڪريو.",
+	"*If you fail to enter multiple times, access will be restricted for several minutes to several hours.": "*جيڪڏهن توهان ڪيترائي ڀيرا داخل ٿيڻ ۾ ناڪام ٿيو، رسائي ڪيترن ئي منٽن کان ڪيترن ڪلاڪن تائين محدود ٿي ويندي.",
+	"Please enter a valid email address.": "مھرباني ڪري صحيح اي ميل پتو داخل ڪريو.",
+	"Please wait a while and try again.": "مھرباني ڪري ڪجھ دير انتظار ڪريو ۽ وري ڪوشش ڪريو.",
+	"Failed to create one-time password.": "هڪ دفعو پاسورڊ ٺاهڻ ۾ ناڪام ٿيو.",
+	"Please enter a valid one-time password.": "مھرباني ڪري ھڪڙو صحيح پاسورڊ داخل ڪريو.",
+	"Please try again after a while.": "مھرباني ڪري ٿوري دير کان پوءِ وري ڪوشش ڪريو.",
+	"Failed to confirm one-time password.": "ھڪڙي وقت جي پاسورڊ جي تصديق ڪرڻ ۾ ناڪام ٿيو.",
+	"Oops...": "اڙي...",
+	"When using Tenyes world, please change your location settings.": "جڏهن استعمال ڪريو Tenyes دنيا، مھرباني ڪري پنھنجي جڳھ جي سيٽنگون تبديل ڪريو.",
+	"Tenyes world collects location information even when the app is closed or not in use to enable location sharing with friends.": "Tenyes world مقام جي معلومات گڏ ڪري ٿي جيتوڻيڪ ايپ بند هجي يا استعمال ۾ نه هجي ته جيئن دوستن سان مقام شيئرنگ کي فعال ڪيو وڃي.",
+	"Location information is also used to support advertising. Tenyes world does not function properly in its current configuration.": "جڳھ جي معلومات پڻ استعمال ڪئي وئي آھي اشتهارن جي حمايت ڪرڻ لاء. Tenyes دنيا ان جي موجوده تشڪيل ۾ صحيح ڪم نٿو ڪري.",
+	"To use Tenyes.world, go to the location settings configuration settings.": "Tenyes.world استعمال ڪرڻ لاء، جڳھ جي سيٽنگن جي ٺاھ جوڙ ڏانھن وڃو.",
+	"Why do app need location information?": "ڇو ايپ کي مقام جي معلومات جي ضرورت آهي؟",
+	"Next": "اڳيان",
+	"Change to \"Always allow.\"": "تبديل ڪريو \"هميشه اجازت ڏيو.\"",
+	"Tenyes world is an application that allows you to share your location with friends in real time.": "Tenyes world هڪ ايپليڪيشن آهي جيڪا توهان کي حقيقي وقت ۾ دوستن سان توهان جي مقام کي حصيداري ڪرڻ جي اجازت ڏئي ٿي.",
+	"To use Tenyes world, you need to change the setting to \"Always allow\".": "Tenyes دنيا کي استعمال ڪرڻ لاء، توهان کي سيٽنگ کي تبديل ڪرڻ جي ضرورت آهي \"هميشه اجازت ڏيو\".",
+	"Why app need to always allow location.": "ڇو ايپ کي هميشه جڳهه جي اجازت ڏيڻ جي ضرورت آهي.",
+	"Why you need location information.": "ڇو توھان کي جڳھ جي معلومات جي ضرورت آھي.",
+	"Tenyes world is an application to share your location with friends in real time.": "Tenyes world هڪ ايپليڪيشن آهي جيڪو توهان جي جڳهه کي حقيقي وقت ۾ دوستن سان حصيداري ڪرڻ لاء.",
+	"What you can do with location data acquisition.": "توهان مقام جي ڊيٽا جي حصول سان ڇا ڪري سگهو ٿا.",
+	"Share your location on maps.": "نقشن تي پنھنجي جڳھ کي حصيداري ڪريو.",
+	"Display your friend's direction and distance on AR screen.": "AR اسڪرين تي پنھنجي دوست جي ھدايت ۽ فاصلو ڏيکاريو.",
+	"Search using your friend's location.": "پنھنجي دوست جي جڳھ کي استعمال ڪندي ڳولھيو.",
+	"Display of AR using your friend's location.": "پنھنجي دوست جي جڳھ کي استعمال ڪندي AR جو ڏيک.",
+	"By setting <span style=\"font-weight:bold;\">always allow</span> the permission of location information, you can get the location information of your friends. Latest features! You can use Tenyes world, a location sharing map app.": "سيٽنگ ڪندي <span style=\"font-weight:bold;\">هميشه اجازت ڏيو</span> مقام جي معلومات جي اجازت، توهان حاصل ڪري سگهو ٿا پنهنجي دوستن جي مقام جي معلومات. جديد خصوصيتون! توهان استعمال ڪري سگهو ٿا Tenyes world، هڪ هنڌ شيئرنگ ميپ ايپ.",
+	"Add a friend": "دوست شامل ڪريو",
+	"Message": "نياپو",
+	"Search": "ڳولا",
+	"Name not set": "نالو مقرر ناهي",
+	"Tap to see pictograms": "تصويرون ڏسڻ لاءِ ٽيپ ڪريو",
+	"Unread messages": "اڻ پڙهيل پيغام",
+	"_unnamed": "نامعلوم",
+	"Send": "موڪليو",
+	"Image format is different": "تصوير جي شڪل مختلف آهي",
+	"Please select an image in jpeg format Current Format: ": "مھرباني ڪري jpeg فارميٽ ۾ تصوير چونڊيو موجوده فارميٽ:",
+	"File size is too large, please keep it under 10 MB.": "فائل جي سائيز تمام وڏي آھي، مھرباني ڪري ان کي 10 MB کان گھٽ رکو.",
+	"The url could not be retrieved.": "url حاصل نه ٿي سگھيو.",
+	"Upload failed.": "اپ لوڊ ناڪام ٿيو.",
+	"Could not get fileName.": "فائل جو نالو حاصل نه ٿي سگھيو.",
+	"Could not get contentType.": "مواد جو قسم حاصل نه ٿي سگھيو.",
+	"Room could not be found.": "ڪمرو نه ملي سگهيو.",
+	"Message exceeds 2000 characters.": "پيغام 2000 اکرن کان وڌي ٿو.",
+	"Characters": "ڪردار",
+	"Failed to send message.": "پيغام موڪلڻ ۾ ناڪام ٿيو.",
+	"Tenyes world": "ٽينس دنيا",
+	"Change your profile picture": "پنھنجي پروفائل تصوير کي تبديل ڪريو",
+	"Camera": "ڪئميرا",
+	"Photo": "ڦوٽو",
+	"_Photo": "ڦوٽو",
+	"_Enter your name": " پنهنجو نالو داخل ڪريو",
+	"Set Tenyes world ID": "Tenyes ورلڊ ID سيٽ ڪريو",
+	"Invite a friend": "هڪ دوست کي دعوت ڏيو",
+	"person": "ماڻهو",
+	"Views": "نظارو",
+	"Total viewed by friends": "دوستن پاران ڏٺو ويو ڪل تعداد",
+	"Times": "ٽائمز",
+	"more friends to unlock": "وڌيڪ دوست کولڻ لاءِ",
+	"You have opened Tenyes world for": "توهان لاء Tenyes دنيا کوليو آهي",
+	"consecutive days.": "لڳاتار ڏينهن.",
+	"Use Photo": "فوٽو استعمال ڪريو",
+	"Setting": "سيٽنگ",
+	"App display icons": "ايپ ڊسپلي آئڪن",
+	"Name": "نالو",
+	"Set your username!": "پنهنجو يوزر نالو مقرر ڪريو!",
+	"Date of birth": "پيدائش جي تاريخ",
+	"Hello": "سلام",
+	"Not entered": "داخل نه ٿيو",
+	"Tell us your birth date!": "اسان کي پنهنجي ڄمڻ جي تاريخ ٻڌايو!",
+	"*Receive a birthday 🎁 (stamp) by entering your birthday.": "* سالگره حاصل ڪريو 🎁 (اسٽيمپ) پنهنجي سالگره داخل ڪندي.",
+	"Year": "سال",
+	"Month": "مهينو",
+	"Day": "ڏينهن",
+	"Blocked users": "بند ٿيل صارفين",
+	"Map Options": "نقشي جا اختيار",
+	"Tenyes": "ٽينس",
+	"Tenyes Map": "Tenyes نقشو",
+	"Standard": "معياري",
+	"blended": "ملايو",
+	"Unit of Distance": "فاصلي جو يونٽ",
+	"meter": "ميٽر",
+	"mile": "ميل",
+	"License:": "لائسنس:",
+	"Follow us on": "اسان تي تابعداري ڪريو",
+	"Tenyes world Secrets": "Tenyes ورلڊ راز ڪميونٽي.",
+	"Manage your friends list.": "پنھنجي دوستن جي لسٽ کي منظم ڪريو.",
+	"Friends": "دوستو",
+	"Blocked users.": "بند ٿيل صارفين.",
+	"users You have blocked users.": "توهان صارفين کي بلاڪ ڪيو آهي.",
+	"You have blocked no users.": "توهان ڪنهن به استعمال ڪندڙن کي بلاڪ نه ڪيو آهي.",
+	"So far, you have not blocked anyone in Tenyes world.": "هينئر تائين، توهان Tenyes جي دنيا ۾ ڪنهن کي به بلاڪ نه ڪيو آهي.",
+	"Notification": "اطلاع",
+	"Turn on notifications": "اطلاعن کي چالو ڪريو",
+	"Contacts on Tenyes world": "Tenyes دنيا تي رابطا",
+	"Notify me when someone in my contacts list starts Tenyes world.": "مون کي اطلاع ڏيو جڏهن ڪو منهنجي رابطن جي فهرست ۾ Tenyes دنيا شروع ٿئي.",
+	"Terms of Use": "استعمال جا شرط",
+	"License": "لائسنس",
+	"GSI Map Website": "GSI نقشي جي ويب سائيٽ",
+	"Privacy Policy": "رازداري پاليسي",
+	"Personal Data Protection": "ذاتي ڊيٽا جي حفاظت",
+	"Changed the icon!": "آئڪن کي تبديل ڪيو!",
+	"Updated!": "اپڊيٽ ٿيل!",
+	"An error has occurred, please try again": "هڪ غلطي ٿي وئي آهي، مهرباني ڪري ٻيهر ڪوشش ڪريو",
+	"age": "عمر",
+	"Image upload failed.": "تصوير اپ لوڊ ناڪام.",
+	"Close": "بند",
+	"Image uploaded.": "تصوير اپ لوڊ ڪئي وئي.",
+	"Profile": "پروفائل",
+	"Preferences": "ترجيحات",
+	"Details": "تفصيل",
+	"Report friend": "رپورٽ ڪريو دوست",
+	"Delete friend": "دوست حذف ڪريو",
+	"Couldn't delete a friend.": "دوست کي ختم نه ڪري سگهيو.",
+	"Cannot erase people who are not my friends.": "انهن ماڻهن کي ختم نٿو ڪري سگهان جيڪي توهان جا دوست نه آهن.",
+	"Cannot delete myself.": "پاڻ کي ختم نه ٿو ڪري سگهان.",
+	"I deleted my friends!!!!": "مون پنهنجي دوستن کي ختم ڪيو !!!!",
+	"Block": "بلاڪ",
+	"Could not block.": "بلاڪ نه ٿي سگهيو.",
+	"You cannot block yourself.": "توهان پنهنجو پاڻ کي بلاڪ نٿا ڪري سگهو.",
+	"Blocked!": "بند ٿيل!",
+	"Unblocking": "بلاڪ ڪرڻ",
+	"You were unable to unblock.": "توھان کي بلاڪ ڪرڻ کان قاصر آھيو.",
+	"Cannot unblock myself.": "مان پاڻ کي بلاڪ نٿو ڪري سگهان.",
+	"You have been unblocked!": "توهان کي بلاڪ ڪيو ويو آهي!",
+	"Unblock and friend request": "بند ڪريو ۽ دوستي جي درخواست",
+	"Unblocked and friend request failed.": "بند ٿيل ۽ دوستي جي درخواست ناڪام ٿي.",
+	"You are an unblocked person.": "توهان هڪ غير بند ٿيل شخص آهيو.",
+	"You cannot apply for yourself.": "توهان پنهنجي لاء درخواست نه ٿا ڪري سگهو.",
+	"You have applied!": "توهان لاڳو ڪيو آهي!",
+	"Do you wish to cancel your membership?": "ڇا توھان چاھيو ٿا پنھنجي رڪنيت منسوخ ڪريو؟",
+	"Are you sure you want to cancel your membership?": "ڇا توھان پڪ سان پنھنجي رڪنيت کي منسوخ ڪرڻ چاھيو ٿا؟",
+	"Are you sure you really sure?": "ڇا توهان کي پڪ آهي ته توهان واقعي کي پڪ آهي؟",
+	"If you cancel your membership, your friend relationship will be terminated.": "جيڪڏهن توهان پنهنجي رڪنيت کي رد ڪيو، توهان جي دوستي جو تعلق ختم ڪيو ويندو.",
+	"Are you sure you really, really, really sure?": "ڇا توهان کي پڪ آهي ته توهان واقعي، واقعي، واقعي يقين آهيو؟",
+	"When you cancel your membership, the friend relationship will be terminated.": "جڏهن توهان پنهنجي رڪنيت کي منسوخ ڪيو، دوستي جو تعلق ختم ڪيو ويندو.",
+	"Withdrawal": "ڪڍڻ",
+	"Cancel": "منسوخ ڪريو",
+	"Unknown error occurred.": "اڻڄاتل غلطي ٿي وئي.",
+	"You have unsubscribed.": "توھان رڪنيت ختم ڪئي آھي.",
+	"We sincerely hope you will return one day!": "اسان کي خلوص اميد آهي ته توهان هڪ ڏينهن واپس ايندا!",
+	"Failed to unsubscribe": "رڪنيت ختم ڪرڻ ۾ ناڪام ٿيو",
+	"Please try again": "مهرباني ڪري ٻيهر ڪوشش ڪريو",
+	"Let's set a name!": "اچو ته هڪ نالو مقرر ڪريو!",
+	"Set an ID!": "هڪ سڃاڻپ مقرر ڪريو!",
+	"Tenyes ID": "ٽينس ID",
+	"Add with Tenyes ID": "Tenyes ID سان شامل ڪريو",
+	"Use phone number": "فون نمبر استعمال ڪريو",
+	"Add with QR Code": "QR ڪوڊ سان شامل ڪريو",
+	"Add by Furufuru": "Furufuru طرفان شامل ڪريو",
+	"Add by Contacts": "رابطن ذريعي شامل ڪريو",
+	"Invite": "دعوت ڏيو",
+	"Friend": "دوست",
+	"Distance": "مفاصلو",
+	"Enter your ID": "پنھنجي ID داخل ڪريو",
+	"Only single-byte alphanumeric characters (lowercase only) and underscore (_) are allowed.": "صرف اڪيلو-بائيٽ الفانومري اکر (صرف ننڍو) ۽ انڊر اسڪور (_) جي اجازت آهي.",
+	"Please enter a valid ID.": "مھرباني ڪري صحيح ID داخل ڪريو.",
+	"ID has been changed": "ID تبديل ڪئي وئي آهي",
+	"This ID is already in use.": "هي ID اڳ ۾ ئي استعمال ۾ آهي.",
+	"Error": "نقص",
+	"Error has occurred. Please try again in a few minutes.": "غلطي ٿي وئي آهي. مھرباني ڪري ڪجھ منٽن ۾ ٻيهر ڪوشش ڪريو.",
+	"Add Friend": "دوست شامل ڪريو",
+	"Do not add": "شامل نه ڪريو",
+	"Your QR": "توهان جو QR",
+	"You need to set up a Tenyes ID!": "توهان کي هڪ Tenyes ID قائم ڪرڻ جي ضرورت آهي!",
+	"Tenyes ID is an ID to find your friends. If you set it up, it will make it easier to find your friends.": "Tenyes ID هڪ ID آهي توهان جي دوستن کي ڳولڻ لاء. جيڪڏهن توهان ان کي سيٽ ڪيو، اهو توهان جي دوستن کي ڳولڻ آسان بڻائي سگهندو.",
+	"Let's exchange friends in Tenyes World! Here is my ID!": "اچو ته Tenyes World ۾ دوستن کي مٽايو! هي منهنجي سڃاڻپ آهي!",
+	"#tenyesworld\n #tenyesworldfriends\n #tenyes\n #locationsharing\n #location": "#tenyesworld\n #tenyesworldfriends\n #ٽينس\n #مقام شيئرنگ\n #مقام",
+	"Let's share on SNS and other places!": "اچو ته SNS ۽ ٻين هنڌن تي حصيداري ڪريو!",
+	"Copy Complete!!!!": "ڪاپي مڪمل !!!!",
+	"QR code, ID, your URL": "QR ڪوڊ، ID، توھان جو URL",
+	"Select where to share": "جتي حصيداري ڪرڻ لاء چونڊيو",
+	"Let's exchange friends on Tenyes World!": "اچو ته Tenyes World تي دوستن کي مٽايو!",
+	"No friends found.": "ڪوبه دوست نه مليو.",
+	"Could not read the QR code.": "QR ڪوڊ پڙهي نه سگهيو.",
+	"Have you registered your Tenyes ID? , Please read the QR code again.": "ڇا توھان پنھنجي Tenyes ID رجسٽر ڪئي آھي؟ مهرباني ڪري QR ڪوڊ ٻيهر پڙهو.",
+	"Already a friend.": "اڳ ۾ ئي هڪ دوست.",
+	"Error has occurred. Please try again later.": "غلطي ٿي وئي آهي. مهرباني ڪري وري ڪوشش ڪريو.",
+	"unnamed": "نامعلوم",
+	"has a friend request.": " هڪ دوستي جي درخواست آهي.",
+	"Do not allow": "اجازت نه ڏيو",
+	"Allow": "اجازت ڏيو",
+	"You cannot add yourself": "توهان پنهنجو پاڻ کي شامل نه ٿا ڪري سگهو",
+	"You cannot add this friend": "توھان ھن دوست کي شامل نٿا ڪري سگھو",
+	"He/she has been added as a friend.": "هن کي دوست طور شامل ڪيو ويو آهي.",
+	"You can't deny yourself.": "توهان پنهنجو پاڻ کي رد نه ٿا ڪري سگهو.",
+	"You cannot reject this friend.": "توهان هن دوست کي رد نٿا ڪري سگهو.",
+	"You have no friend requests": "توهان وٽ ڪا به دوستي جي درخواست ناهي",
+	"You have been rejected.": "توهان کي رد ڪيو ويو آهي.",
+	"Unknown error occurred. Code : ": "اڻڄاتل غلطي ٿي وئي. ڪوڊ:",
+	"Scope of disclosure of location information to selectors": "منتخب ڪندڙن کي جڳھ جي معلومات جي ظاهر ڪرڻ جو دائرو",
+	"Accurate": "درست",
+	"Ambiguous": "ابهام وارو",
+	"Freeze": "منجهيل",
+	"Ghost mode": "گھوسٽ موڊ",
+	"Select friends to change settings": "سيٽنگون تبديل ڪرڻ لاء دوست چونڊيو",
+	"Exact Location": "درست هنڌ",
+	"Ambiguous position": "ابهام واري پوزيشن",
+	"Select all": "سڀ چونڊيو",
+	"Your current location will be roughly displayed": "توھان جي موجوده جڳھ تقريبا ڏيکاري ويندي",
+	"Friends who have this setting will see that you have an \"ambiguous\" setting.": "جن دوستن وٽ هي سيٽنگ آهي اهي ڏسندا ته توهان وٽ ”مبهم“ سيٽنگ آهي.",
+	"\"Freeze\" position": "\"منجمد\" پوزيشن",
+	"Select All": "سڀ چونڊيو",
+	"The same location will appear fixed, with the location information as it was before you made this \"freeze\" setting.": "ساڳي جڳهه تي مقرر ٿيل ظاهر ٿيندو، جڳهه جي معلومات سان جيئن ته توهان هن \"منجمد\" سيٽنگ ٺاهڻ کان اڳ هئي.",
+	"Your friends who have this setting will not see that you have set a \"freeze\".": "توهان جا دوست جن وٽ هي سيٽنگ آهي اهو نه ڏسندا ته توهان هڪ \"فريز\" سيٽ ڪيو آهي.",
+	"day": "ڏينهن",
+	"hrs": "ڪلاڪ",
+	"min.": "منٽ",
+	"sec.": "سيڪنڊ",
+	"friends": "دوست",
+	"Friends gather here": " هتي گڏ ڪريو",
+	"unset": "غير سيٽ",
+	"You must update!!!!": "توهان کي اپڊيٽ ڪرڻ گهرجي !!!!",
+	"Please update from Store!": "مهرباني ڪري اسٽور تان اپڊيٽ ڪريو!",
+	"What is your name?": "توهان جو نالو ڇا آهي؟",
+	"Enter your name": "پنهنجو نالو داخل ڪريو",
+	"Invalid name": "غلط نالو",
+	"Please enter a valid name.": "مھرباني ڪري صحيح نالو داخل ڪريو.",
+	"Name changed!": "نالو تبديل ڪيو!",
+	"Search by Tenyes ID": "Tenyes ID ذريعي ڳولھيو",
+	"Enter friend ID": "دوست جي سڃاڻپ داخل ڪريو",
+	"Required Fields": "ضروري خانه",
+	"Please enter at least 3 characters": "مھرباني ڪري گھٽ ۾ گھٽ 3 اکر داخل ڪريو",
+	"Please enter up to 30 characters": "مھرباني ڪري 30 اکرن تائين داخل ڪريو",
+	"Only single-byte alphanumeric characters and underscore (_) are allowed.": "صرف واحد-بائيٽ الفانومريڪ اکر ۽ انڊر اسڪور (_) جي اجازت آهي.",
+	"You have blocked this user.": "توھان ھن صارف کي بلاڪ ڪيو آھي.",
+	"Please unblock and friend request.": "مھرباني ڪري ان بلاڪ ڪريو ۽ دوستي جي درخواست ڪريو.",
+	"You cannot add this friend.": "توھان ھن دوست کي شامل نٿا ڪري سگھو.",
+	"Already a friend": "اڳ ۾ ئي هڪ دوست",
+	"You have added a friend!": "توهان هڪ دوست شامل ڪيو آهي!",
+	"Already sent!": "اڳ ۾ ئي موڪليو ويو!",
+	"An error has occurred. Please try again later.": "هڪ غلطي ٿي وئي آهي. مهرباني ڪري وري ڪوشش ڪريو.",
+	"Unknown error has occurred. Please try again in a few minutes. Code: ": "اڻڄاتل غلطي ٿي وئي آهي. مھرباني ڪري ڪجھ منٽن ۾ ٻيهر ڪوشش ڪريو. ڪوڊ:",
+	"Invalid ID": "غلط ID",
+	"Please enter correct ID.": "مهرباني ڪري صحيح ID داخل ڪريو.",
+	"Compass permission is required to obtain a friend's direction.": "دوست جي هدايت حاصل ڪرڻ لاءِ کمپاس جي اجازت گهربل آهي.",
+	"To use the compass, go to Settings > Privacy > Sensors > Allow Compass.": "کمپاس استعمال ڪرڻ لاءِ، وڃو سيٽنگون> پرائيويسي> سينسر> اجازت ڏيو کمپاس.",
+	"The only Tenyes ID in the world": "دنيا ۾ واحد Tenyes ID",
+	"My ID is this": "منهنجي سڃاڻپ هي آهي",
+	"Enjoy!!!": "لطف اندوز !!!",
+	"Will be added in the next update!!!!": "ايندڙ اپڊيٽ ۾ شامل ڪيو ويندو !!!!",
+	"Please change the use of location information to Always Allow.": "مھرباني ڪري جڳھ جي معلومات جي استعمال کي Always Allow ۾ تبديل ڪريو.",
+	"In order to share accurate location information with your friends, you must always change the use of location information to Allow.": "پنھنجي دوستن سان درست جڳھ جي معلومات کي حصيداري ڪرڻ لاء، توھان کي ھميشه جڳھ جي معلومات جي استعمال کي اجازت ڏيڻ ۾ تبديل ڪرڻ گھرجي.",
+	"Always change to permit": "هميشه اجازت ڏيڻ لاء تبديل ڪريو",
+	"sent message": "پيغام موڪليو",
+	"Media has been sent.": "ميڊيا موڪليو ويو آهي.",
+	"Stamps sent": "ٽپال موڪليا ويا",
+	"Failed to create DM channel Err:2": "DM چينل ٺاهڻ ۾ ناڪام ٿيو Err:2",
+	"next unlock at ": "ايندڙ ان لاڪ تي",
+	" days": " ڏينهن"
+}

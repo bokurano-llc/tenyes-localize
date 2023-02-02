@@ -1,0 +1,267 @@
+{
+	"JP Authentication code has been sent to": "",
+	"ATO": "",
+	"By tapping `I agree to the Terms of Service`, you agree to the Privacy Policy and Terms of Service.": "بالنقر فوق \"أوافق على شروط الخدمة\" ، فإنك توافق على سياسة الخصوصية وشروط الخدمة.",
+	"Login after agreeing to the Terms of Use.": "تسجيل الدخول بعد الموافقة على شروط الاستخدام.",
+	"Hello! What's your name?": "مرحبًا! ما اسمك؟",
+	"Names that are easy to recognize by friends are good👌": "الأسماء التي يسهل التعرف عليها من قبل الأصدقاء جيدة👌",
+	"Hello.": "مرحبًا.",
+	"Give me your birth date!": "أعطني تاريخ ميلادك!",
+	"Option": "خيار",
+	"Sign in with Email": "تسجيل الدخول باستخدام البريد الإلكتروني",
+	"Sign in with Google": "الدخول مع جوجل",
+	"Log in with Apple": "سجل الدخول مع Apple",
+	"Authentication code has been sent to ": "تم إرسال رمز المصادقة إلى",
+	"Enter your email address.": "أدخل عنوان بريدك الالكتروني.",
+	"An authentication code will be sent to the email address you entered.": "سيتم إرسال رمز المصادقة إلى عنوان البريد الإلكتروني الذي أدخلته.",
+	"Enter the verification code sent to your email.": "أدخل رمز التحقق المرسل إلى بريدك الإلكتروني.",
+	"*If you fail to enter multiple times, access will be restricted for several minutes to several hours.": "* إذا فشلت في الدخول عدة مرات ، فسيتم تقييد الوصول لعدة دقائق إلى عدة ساعات.",
+	"Please enter a valid email address.": "من فضلك أدخل بريد أليكترونى صحيح.",
+	"Please wait a while and try again.": "يرجى الانتظار لحظة وحاول مرة أخرى.",
+	"Failed to create one-time password.": "فشل إنشاء كلمة مرور لمرة واحدة.",
+	"Please enter a valid one-time password.": "الرجاء إدخال كلمة مرور صالحة لمرة واحدة.",
+	"Please try again after a while.": "يرجى المحاولة مرة أخرى بعد فترة.",
+	"Failed to confirm one-time password.": "فشل في تأكيد كلمة المرور لمرة واحدة.",
+	"Oops...": "عفوًا...",
+	"When using Tenyes world, please change your location settings.": "عند استخدام عالم Tenyes ، يرجى تغيير إعدادات موقعك.",
+	"Tenyes world collects location information even when the app is closed or not in use to enable location sharing with friends.": "يجمع Tenyes world معلومات الموقع حتى عندما يكون التطبيق مغلقًا أو غير مستخدم لتمكين مشاركة الموقع مع الأصدقاء.",
+	"Location information is also used to support advertising. Tenyes world does not function properly in its current configuration.": "تُستخدم معلومات الموقع أيضًا لدعم الإعلان. لا يعمل عالم Tenyes بشكل صحيح في تكوينه الحالي.",
+	"To use Tenyes.world, go to the location settings configuration settings.": "لاستخدام Tenyes.world ، انتقل إلى إعدادات تكوين إعدادات الموقع.",
+	"Why do app need location information?": "لماذا يحتاج التطبيق إلى معلومات الموقع؟",
+	"Next": "التالي",
+	"Change to \"Always allow.\"": "غيّر إلى \"السماح دائمًا\".",
+	"Tenyes world is an application that allows you to share your location with friends in real time.": "Tenyes world هو تطبيق يتيح لك مشاركة موقعك مع الأصدقاء في الوقت الفعلي.",
+	"To use Tenyes world, you need to change the setting to \"Always allow\".": "لاستخدام عالم Tenyes ، تحتاج إلى تغيير الإعداد إلى \"السماح دائمًا\".",
+	"Why app need to always allow location.": "لماذا يحتاج التطبيق إلى السماح دائمًا بالموقع.",
+	"Why you need location information.": "لماذا تحتاج معلومات الموقع.",
+	"Tenyes world is an application to share your location with friends in real time.": "Tenyes world هو تطبيق لمشاركة موقعك مع الأصدقاء في الوقت الفعلي.",
+	"What you can do with location data acquisition.": "ما يمكنك القيام به مع الحصول على بيانات الموقع.",
+	"Share your location on maps.": "شارك موقعك على الخرائط.",
+	"Display your friend's direction and distance on AR screen.": "اعرض اتجاه صديقك ومسافته على شاشة الواقع المعزز.",
+	"Search using your friend's location.": "ابحث باستخدام موقع صديقك.",
+	"Display of AR using your friend's location.": "عرض الواقع المعزز باستخدام موقع صديقك.",
+	"By setting <span style=\"font-weight:bold;\">always allow</span> the permission of location information, you can get the location information of your friends. Latest features! You can use Tenyes world, a location sharing map app.": "من خلال تعيين <span style = \"font-weight: bold؛\"> السماح دائمًا </ span> بإذن معلومات الموقع ، يمكنك الحصول على معلومات موقع أصدقائك. أحدث الميزات! يمكنك استخدام Tenyes world ، وهو تطبيق خريطة لمشاركة الموقع.",
+	"Add a friend": "أضف صديق",
+	"Message": "رسالة",
+	"Search": "يبحث",
+	"Name not set": "الاسم غير محدد",
+	"Tap to see pictograms": "انقر لرؤية الصور التوضيحية",
+	"Unread messages": "رسائل غير مقروءة",
+	"_unnamed": "غير مسمى",
+	"Send": "إرسال",
+	"Image format is different": "تنسيق الصورة مختلف",
+	"Please select an image in jpeg format Current Format: ": "الرجاء تحديد صورة بتنسيق jpeg التنسيق الحالي:",
+	"File size is too large, please keep it under 10 MB.": "حجم الملف كبير جدًا ، يرجى الاحتفاظ به أقل من 10 ميغابايت.",
+	"The url could not be retrieved.": "تعذر استرداد عنوان url.",
+	"Upload failed.": "التحميل فشل.",
+	"Could not get fileName.": "تعذر الحصول على اسم الملف.",
+	"Could not get contentType.": "تعذر الحصول على نوع المحتوى.",
+	"Room could not be found.": "لا يمكن العثور على الغرفة.",
+	"Message exceeds 2000 characters.": "يتجاوز طول الرسالة 2000 حرف.",
+	"Characters": "الشخصيات",
+	"Failed to send message.": "فشل في إرسال الرسالة.",
+	"Tenyes world": "عالم تينيس",
+	"Change your profile picture": "تغيير صورة ملفك الشخصي",
+	"Camera": "آلة تصوير",
+	"Photo": "صورة",
+	"_Photo": "صورة",
+	"_Enter your name": " أدخل أسمك",
+	"Set Tenyes world ID": "تعيين معرف العالم Tenyes",
+	"Invite a friend": "أدع صديقا",
+	"person": "شخص",
+	"Views": "الآراء",
+	"Total viewed by friends": "العدد الإجمالي للمشاهدة من قبل الأصدقاء",
+	"Times": "مرات",
+	"more friends to unlock": "المزيد من الأصدقاء لفتح",
+	"You have opened Tenyes world for": "لقد فتحت عالم Tenyes لـ",
+	"consecutive days.": "أيام متتالية.",
+	"Use Photo": "استخدم الصورة",
+	"Setting": "جلسة",
+	"App display icons": "أيقونات عرض التطبيق",
+	"Name": "اسم",
+	"Set your username!": "ضع اسم المستخدم الخاص بك!",
+	"Date of birth": "تاريخ الولادة",
+	"Hello": "مرحبًا",
+	"Not entered": "لا تدخل",
+	"Tell us your birth date!": "أخبرنا بتاريخ ميلادك!",
+	"*Receive a birthday 🎁 (stamp) by entering your birthday.": "* احصل على عيد ميلاد 🎁 (طابع) عن طريق إدخال تاريخ ميلادك.",
+	"Year": "سنة",
+	"Month": "شهر",
+	"Day": "يوم",
+	"Blocked users": "مستخدمين محجوبين",
+	"Map Options": "خيارات الخريطة",
+	"Tenyes": "تينيس",
+	"Tenyes Map": "خريطة تينيس",
+	"Standard": "اساسي",
+	"blended": "ممزوج",
+	"Unit of Distance": "وحدة المسافة",
+	"meter": "متر",
+	"mile": "ميل",
+	"License:": "رخصة:",
+	"Follow us on": "اتبعنا",
+	"Tenyes world Secrets": "مجتمع أسرار العالم تينيس.",
+	"Manage your friends list.": "إدارة قائمة أصدقائك.",
+	"Friends": "اصحاب",
+	"Blocked users.": "مستخدمين محجوبين.",
+	"users You have blocked users.": "المستخدمين لقد قمت بحظر المستخدمين.",
+	"You have blocked no users.": "لم تقم بحظر أي مستخدمين.",
+	"So far, you have not blocked anyone in Tenyes world.": "حتى الآن ، لم تحظر أي شخص في عالم Tenyes.",
+	"Notification": "إشعار",
+	"Turn on notifications": "تشغيل الإخطارات",
+	"Contacts on Tenyes world": "جهات الاتصال في عالم Tenyes",
+	"Notify me when someone in my contacts list starts Tenyes world.": "إعلامي عندما يبدأ شخص ما في قائمة جهات الاتصال الخاصة بي عالم Tenyes.",
+	"Terms of Use": "شروط الاستخدام",
+	"License": "رخصة",
+	"GSI Map Website": "موقع خريطة GSI",
+	"Privacy Policy": "سياسة الخصوصية",
+	"Personal Data Protection": "حماية البيانات الشخصية",
+	"Changed the icon!": "تم تغيير الرمز!",
+	"Updated!": "محدث!",
+	"An error has occurred, please try again": "لقد حدث خطأ ، يرجى المحاولة مرة أخرى",
+	"age": "عمر",
+	"Image upload failed.": "فشل تحميل الصورة.",
+	"Close": "يغلق",
+	"Image uploaded.": "تم تحميل الصورة.",
+	"Profile": "حساب تعريفي",
+	"Preferences": "التفضيلات",
+	"Details": "تفاصيل",
+	"Report friend": "أبلغ عن صديق",
+	"Delete friend": "حذف الصديق",
+	"Couldn't delete a friend.": "تعذر حذف صديق.",
+	"Cannot erase people who are not my friends.": "لا يمكن محو الأشخاص الذين ليسوا من أصدقائك.",
+	"Cannot delete myself.": "لا يمكن حذف نفسي.",
+	"I deleted my friends!!!!": "لقد حذفت أصدقائي !!!!",
+	"Block": "منع",
+	"Could not block.": "لا يمكن منع.",
+	"You cannot block yourself.": "لا يمكنك منع نفسك.",
+	"Blocked!": "محظور!",
+	"Unblocking": "فتح",
+	"You were unable to unblock.": "كنت غير قادر على رفع الحظر.",
+	"Cannot unblock myself.": "لا أستطيع إلغاء حظر نفسي.",
+	"You have been unblocked!": "لقد تم رفع الحظر!",
+	"Unblock and friend request": "إلغاء الحظر وطلب الصداقة",
+	"Unblocked and friend request failed.": "غير محظور وفشل طلب الصداقة.",
+	"You are an unblocked person.": "أنت شخص غير محظور.",
+	"You cannot apply for yourself.": "لا يمكنك التقدم لنفسك.",
+	"You have applied!": "لقد تقدمت بطلب!",
+	"Do you wish to cancel your membership?": "هل ترغب في إلغاء عضويتك؟",
+	"Are you sure you want to cancel your membership?": "هل أنت متأكد أنك تريد إلغاء عضويتك؟",
+	"Are you sure you really sure?": "هل أنت متأكد أنك متأكد؟",
+	"If you cancel your membership, your friend relationship will be terminated.": "إذا قمت بإلغاء عضويتك ، فسيتم إنهاء علاقتك مع الأصدقاء.",
+	"Are you sure you really, really, really sure?": "هل أنت متأكد أنك متأكد حقًا ، حقًا ، حقًا؟",
+	"When you cancel your membership, the friend relationship will be terminated.": "عند إلغاء عضويتك ، سيتم إنهاء علاقة الصديق.",
+	"Withdrawal": "انسحاب",
+	"Cancel": "يلغي",
+	"Unknown error occurred.": "حدث خطأ غير معروف.",
+	"You have unsubscribed.": "لقد ألغيت الاشتراك.",
+	"We sincerely hope you will return one day!": "نتمنى مخلصين أن تعود يومًا ما!",
+	"Failed to unsubscribe": "فشل إلغاء الاشتراك",
+	"Please try again": "حاول مرة اخرى",
+	"Let's set a name!": "دعنا نضع اسما!",
+	"Set an ID!": "تحديد هوية!",
+	"Tenyes ID": "معرف تينيس",
+	"Add with Tenyes ID": "أضف بمعرف Tenyes",
+	"Use phone number": "استخدم رقم الهاتف",
+	"Add with QR Code": "أضف مع رمز الاستجابة السريعة",
+	"Add by Furufuru": "إضافة Furufuru",
+	"Add by Contacts": "إضافة بواسطة جهات الاتصال",
+	"Invite": "يدعو",
+	"Friend": "صديق",
+	"Distance": "مسافه: بعد",
+	"Enter your ID": "أدخل المعرف",
+	"Only single-byte alphanumeric characters (lowercase only) and underscore (_) are allowed.": "يُسمح فقط باستخدام الأحرف الأبجدية الرقمية أحادية البايت (الأحرف الصغيرة فقط) والشرطة السفلية (_).",
+	"Please enter a valid ID.": "الرجاء إدخال معرف صالح.",
+	"ID has been changed": "تم تغيير المعرف",
+	"This ID is already in use.": "هذا المستخدم مستخدم بالفعل.",
+	"Error": "خطأ",
+	"Error has occurred. Please try again in a few minutes.": "حدث خطأ. يرجى المحاولة مرة أخرى في بضع دقائق.",
+	"Add Friend": "أضف صديق",
+	"Do not add": "لا تقم بإضافة",
+	"Your QR": "QR الخاص بك",
+	"You need to set up a Tenyes ID!": "تحتاج إلى إعداد معرف Tenyes!",
+	"Tenyes ID is an ID to find your friends. If you set it up, it will make it easier to find your friends.": "معرف Tenyes هو معرف للعثور على أصدقائك. إذا قمت بإعداده ، فسوف يسهل عليك العثور على أصدقائك.",
+	"Let's exchange friends in Tenyes World! Here is my ID!": "دعونا نتبادل الأصدقاء في Tenyes World! هنا هويتي!",
+	"#tenyesworld\n #tenyesworldfriends\n #tenyes\n #locationsharing\n #location": "# هههههههههه\n # هههههههههه\n # نعم\n #مشاركة الموقع\n #موقعك",
+	"Let's share on SNS and other places!": "دعنا نشارك على SNS وأماكن أخرى!",
+	"Copy Complete!!!!": "نسخ كامل !!!!",
+	"QR code, ID, your URL": "رمز الاستجابة السريعة ، المعرف ، عنوان URL الخاص بك",
+	"Select where to share": "حدد مكان المشاركة",
+	"Let's exchange friends on Tenyes World!": "دعونا نتبادل الأصدقاء على Tenyes World!",
+	"No friends found.": "لم يتم العثور على أصدقاء.",
+	"Could not read the QR code.": "تعذرت قراءة رمز الاستجابة السريعة.",
+	"Have you registered your Tenyes ID? , Please read the QR code again.": "هل قمت بتسجيل معرف Tenyes الخاص بك؟ ، يرجى قراءة رمز الاستجابة السريعة مرة أخرى.",
+	"Already a friend.": "بالفعل صديق.",
+	"Error has occurred. Please try again later.": "حدث خطأ. الرجاء معاودة المحاولة في وقت لاحق.",
+	"unnamed": "غير مسمى",
+	"has a friend request.": " لديه طلب صداقة.",
+	"Do not allow": "لا تسمح",
+	"Allow": "السماح",
+	"You cannot add yourself": "لا يمكنك إضافة نفسك",
+	"You cannot add this friend": "لا يمكنك إضافة هذا الصديق",
+	"He/she has been added as a friend.": "تمت إضافته كصديق.",
+	"You can't deny yourself.": "لا يمكنك إنكار نفسك.",
+	"You cannot reject this friend.": "لا يمكنك رفض هذا الصديق.",
+	"You have no friend requests": "ليس لديك طلبات صداقة",
+	"You have been rejected.": "لقد تم رفضك.",
+	"Unknown error occurred. Code : ": "حدث خطأ غير معروف. رمز :",
+	"Scope of disclosure of location information to selectors": "نطاق الكشف عن معلومات الموقع للمحدد",
+	"Accurate": "دقيق",
+	"Ambiguous": "غامض",
+	"Freeze": "تجميد",
+	"Ghost mode": "وضع الشبح",
+	"Select friends to change settings": "حدد الأصدقاء لتغيير الإعدادات",
+	"Exact Location": "الموقع الدقيق",
+	"Ambiguous position": "موقف غامض",
+	"Select all": "اختر الكل",
+	"Your current location will be roughly displayed": "سيتم عرض موقعك الحالي تقريبًا",
+	"Friends who have this setting will see that you have an \"ambiguous\" setting.": "سيرى الأصدقاء الذين لديهم هذا الإعداد أن لديك إعدادًا \"غامضًا\".",
+	"\"Freeze\" position": "موقف \"تجميد\"",
+	"Select All": "اختر الكل",
+	"The same location will appear fixed, with the location information as it was before you made this \"freeze\" setting.": "سيظهر نفس الموقع ثابتًا ، مع معلومات الموقع كما كانت قبل إجراء إعداد \"التجميد\" هذا.",
+	"Your friends who have this setting will not see that you have set a \"freeze\".": "لن يرى أصدقاؤك الذين لديهم هذا الإعداد أنك قمت بتعيين \"تجميد\".",
+	"day": "يوم",
+	"hrs": "ساعة",
+	"min.": "دقيقة.",
+	"sec.": "ثانية.",
+	"friends": "اصحاب",
+	"Friends gather here": " اجتمع هنا",
+	"unset": "غير محدد",
+	"You must update!!!!": "يجب تحديث!!!!",
+	"Please update from Store!": "يرجى التحديث من المتجر!",
+	"What is your name?": "ما اسمك؟",
+	"Enter your name": "أدخل أسمك",
+	"Invalid name": "اسم غير صحيح",
+	"Please enter a valid name.": "رجاء ادخل اسما صحيحا.",
+	"Name changed!": "تم تغيير الاسم!",
+	"Search by Tenyes ID": "البحث عن طريق معرف Tenyes",
+	"Enter friend ID": "أدخل معرف الصديق",
+	"Required Fields": "الحقول المطلوبة",
+	"Please enter at least 3 characters": "الرجاء إدخال 3 أحرف على الأقل",
+	"Please enter up to 30 characters": "الرجاء إدخال ما يصل إلى 30 حرفًا",
+	"Only single-byte alphanumeric characters and underscore (_) are allowed.": "يُسمح فقط باستخدام الأحرف الأبجدية الرقمية أحادية البايت والشرطة السفلية (_).",
+	"You have blocked this user.": "لقد قمت بحظر هذا المستخدم.",
+	"Please unblock and friend request.": "الرجاء إلغاء الحظر وطلب الصداقة.",
+	"You cannot add this friend.": "لا يمكنك إضافة هذا الصديق.",
+	"Already a friend": "بالفعل صديق",
+	"You have added a friend!": "لقد قمت بإضافة صديق!",
+	"Already sent!": "أرسلت مسبقا!",
+	"An error has occurred. Please try again later.": "حدث خطأ. الرجاء معاودة المحاولة في وقت لاحق.",
+	"Unknown error has occurred. Please try again in a few minutes. Code: ": "حدث خطأ غير معروف. يرجى المحاولة مرة أخرى في بضع دقائق. رمز:",
+	"Invalid ID": "بطاقة التعريف غير صالحة",
+	"Please enter correct ID.": "الرجاء إدخال المعرف الصحيح.",
+	"Compass permission is required to obtain a friend's direction.": "مطلوب إذن البوصلة للحصول على توجيه من صديق.",
+	"To use the compass, go to Settings > Privacy > Sensors > Allow Compass.": "لاستخدام البوصلة ، انتقل إلى الإعدادات> الخصوصية> أجهزة الاستشعار> السماح بالبوصلة.",
+	"The only Tenyes ID in the world": "معرف Tenyes الوحيد في العالم",
+	"My ID is this": "هويتي هذا",
+	"Enjoy!!!": "يتمتع!!!",
+	"Will be added in the next update!!!!": "ستضاف في التحديث القادم !!!!",
+	"Please change the use of location information to Always Allow.": "الرجاء تغيير استخدام معلومات الموقع إلى \"السماح دائمًا\".",
+	"In order to share accurate location information with your friends, you must always change the use of location information to Allow.": "لمشاركة معلومات الموقع الدقيقة مع أصدقائك ، يجب عليك دائمًا تغيير استخدام معلومات الموقع إلى السماح.",
+	"Always change to permit": "قم دائمًا بالتغيير للتصريح",
+	"sent message": "الرسالة المرسلة",
+	"Media has been sent.": "تم إرسال الوسائط.",
+	"Stamps sent": "الطوابع المرسلة",
+	"Failed to create DM channel Err:2": "فشل إنشاء قناة DM ، الخطأ: 2",
+	"next unlock at ": "فتح المقبل في",
+	" days": " أيام"
+}

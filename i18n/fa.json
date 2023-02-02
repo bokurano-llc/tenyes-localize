@@ -1,0 +1,267 @@
+{
+	"JP Authentication code has been sent to": "",
+	"ATO": "",
+	"By tapping `I agree to the Terms of Service`, you agree to the Privacy Policy and Terms of Service.": "با ضربه زدن روی «موافقم با شرایط خدمات»، با خط مشی رازداری و شرایط خدمات موافقت می کنید.",
+	"Login after agreeing to the Terms of Use.": "پس از موافقت با شرایط استفاده، وارد شوید.",
+	"Hello! What's your name?": "سلام! اسمت چیه؟",
+	"Names that are easy to recognize by friends are good👌": "اسم هایی که دوستان به راحتی می شناسند خوب هستند👌",
+	"Hello.": "سلام.",
+	"Give me your birth date!": "تاریخ تولدت را به من بده!",
+	"Option": "گزینه",
+	"Sign in with Email": "با ایمیل وارد شوید",
+	"Sign in with Google": "با گوگل وارد شوید",
+	"Log in with Apple": "با اپل وارد شوید",
+	"Authentication code has been sent to ": "کد احراز هویت به ارسال شده است",
+	"Enter your email address.": "آدرس ایمیل خود را وارد کنید.",
+	"An authentication code will be sent to the email address you entered.": "یک کد احراز هویت به آدرس ایمیلی که وارد کرده اید ارسال می شود.",
+	"Enter the verification code sent to your email.": "کد تأیید ارسال شده به ایمیل خود را وارد کنید.",
+	"*If you fail to enter multiple times, access will be restricted for several minutes to several hours.": "*اگر چندین بار وارد نشوید، دسترسی از چند دقیقه تا چند ساعت محدود خواهد شد.",
+	"Please enter a valid email address.": "لطفا یک آدرس ایمیل معتبر وارد کنید.",
+	"Please wait a while and try again.": "لطفا کمی صبر کنید و دوباره امتحان کنید.",
+	"Failed to create one-time password.": "ایجاد رمز عبور یکبار مصرف ناموفق بود.",
+	"Please enter a valid one-time password.": "لطفا یک رمز عبور معتبر یک بار مصرف وارد کنید.",
+	"Please try again after a while.": "لطفا بعد از مدتی دوباره امتحان کنید.",
+	"Failed to confirm one-time password.": "رمز عبور یکبار مصرف تایید نشد.",
+	"Oops...": "اوه...",
+	"When using Tenyes world, please change your location settings.": "هنگام استفاده از Tenyes world، لطفاً تنظیمات مکان خود را تغییر دهید.",
+	"Tenyes world collects location information even when the app is closed or not in use to enable location sharing with friends.": "Tenyes world اطلاعات مکان را حتی زمانی که برنامه بسته است یا استفاده نمی شود جمع آوری می کند تا به اشتراک گذاری مکان با دوستان را فعال کند.",
+	"Location information is also used to support advertising. Tenyes world does not function properly in its current configuration.": "اطلاعات مکان نیز برای پشتیبانی از تبلیغات استفاده می شود. دنیای Tenyes در پیکربندی فعلی خود به درستی عمل نمی کند.",
+	"To use Tenyes.world, go to the location settings configuration settings.": "برای استفاده از Tenyes.world، به تنظیمات پیکربندی تنظیمات مکان بروید.",
+	"Why do app need location information?": "چرا برنامه به اطلاعات مکان نیاز دارد؟",
+	"Next": "بعد",
+	"Change to \"Always allow.\"": "به \"همیشه مجاز\" تغییر دهید.",
+	"Tenyes world is an application that allows you to share your location with friends in real time.": "Tenyes world برنامه‌ای است که به شما امکان می‌دهد موقعیت مکانی خود را در زمان واقعی با دوستان خود به اشتراک بگذارید.",
+	"To use Tenyes world, you need to change the setting to \"Always allow\".": "برای استفاده از دنیای Tenyes، باید تنظیمات را به \"همیشه اجازه می دهد\" تغییر دهید.",
+	"Why app need to always allow location.": "چرا برنامه باید همیشه مکان را مجاز کند.",
+	"Why you need location information.": "چرا به اطلاعات مکان نیاز دارید",
+	"Tenyes world is an application to share your location with friends in real time.": "Tenyes world یک برنامه کاربردی برای به اشتراک گذاشتن موقعیت مکانی شما با دوستان در زمان واقعی است.",
+	"What you can do with location data acquisition.": "کاری که می توانید با اکتساب داده های مکان انجام دهید.",
+	"Share your location on maps.": "موقعیت مکانی خود را در نقشه ها به اشتراک بگذارید",
+	"Display your friend's direction and distance on AR screen.": "جهت و فاصله دوست خود را روی صفحه AR نمایش دهید.",
+	"Search using your friend's location.": "با استفاده از موقعیت مکانی دوست خود جستجو کنید.",
+	"Display of AR using your friend's location.": "نمایش AR با استفاده از موقعیت مکانی دوست شما.",
+	"By setting <span style=\"font-weight:bold;\">always allow</span> the permission of location information, you can get the location information of your friends. Latest features! You can use Tenyes world, a location sharing map app.": "با تنظیم <span style=\"font-weight:bold;\">همیشه مجاز</span> اجازه اطلاعات موقعیت مکانی، می توانید اطلاعات موقعیت مکانی دوستان خود را دریافت کنید. آخرین ویژگی ها! می توانید از Tenyes world، یک برنامه نقشه اشتراک گذاری موقعیت مکانی استفاده کنید.",
+	"Add a friend": "یک دوست اضافه کنید",
+	"Message": "پیام",
+	"Search": "جستجو کردن",
+	"Name not set": "نام تنظیم نشده است",
+	"Tap to see pictograms": "برای دیدن پیکتوگرام ها ضربه بزنید",
+	"Unread messages": "پیام های خوانده نشده",
+	"_unnamed": "بی نام",
+	"Send": "ارسال",
+	"Image format is different": "فرمت تصویر متفاوت است",
+	"Please select an image in jpeg format Current Format: ": "لطفاً یک تصویر را با فرمت jpeg انتخاب کنید فرمت فعلی:",
+	"File size is too large, please keep it under 10 MB.": "اندازه فایل خیلی بزرگ است، لطفا آن را کمتر از 10 مگابایت نگه دارید.",
+	"The url could not be retrieved.": "آدرس اینترنتی قابل بازیابی نیست.",
+	"Upload failed.": "آپلود انجام نشد.",
+	"Could not get fileName.": "نام فایل دریافت نشد.",
+	"Could not get contentType.": "ContentType دریافت نشد.",
+	"Room could not be found.": "اتاق پیدا نشد.",
+	"Message exceeds 2000 characters.": "پیام بیش از 2000 کاراکتر است.",
+	"Characters": "شخصیت ها",
+	"Failed to send message.": "پیام ارسال نشد.",
+	"Tenyes world": "دنیای تنیس",
+	"Change your profile picture": "تصویر پروفایل خودتان را تغییر دهید",
+	"Camera": "دوربین",
+	"Photo": "عکس",
+	"_Photo": "عکس",
+	"_Enter your name": " اسمت را وارد کن",
+	"Set Tenyes world ID": "شناسه جهانی Tenyes را تنظیم کنید",
+	"Invite a friend": "یک دوست را دعوت کن",
+	"person": "شخص",
+	"Views": "بازدیدها",
+	"Total viewed by friends": "تعداد کل بازدید شده توسط دوستان",
+	"Times": "بار",
+	"more friends to unlock": "دوستان بیشتری برای باز کردن قفل",
+	"You have opened Tenyes world for": "شما جهان Tenyes را برای آن باز کرده اید",
+	"consecutive days.": "روزهای متوالی.",
+	"Use Photo": "از عکس استفاده کنید",
+	"Setting": "تنظیمات",
+	"App display icons": "آیکون های نمایش برنامه",
+	"Name": "نام",
+	"Set your username!": "نام کاربری خود را تنظیم کنید!",
+	"Date of birth": "تاریخ تولد",
+	"Hello": "سلام",
+	"Not entered": "وارد نشده است",
+	"Tell us your birth date!": "تاریخ تولدت را به ما بگو",
+	"*Receive a birthday 🎁 (stamp) by entering your birthday.": "*با وارد کردن روز تولد خود تولد دریافت کنید 🎁 (مهر).",
+	"Year": "سال",
+	"Month": "ماه",
+	"Day": "روز",
+	"Blocked users": "کاربران مسدود شده",
+	"Map Options": "گزینه های نقشه",
+	"Tenyes": "تنیس",
+	"Tenyes Map": "نقشه تنیس",
+	"Standard": "استاندارد",
+	"blended": "مخلوط شده",
+	"Unit of Distance": "واحد فاصله",
+	"meter": "متر",
+	"mile": "مایل",
+	"License:": "مجوز:",
+	"Follow us on": "ما را دنبال در",
+	"Tenyes world Secrets": "انجمن اسرار جهانی Tenyes.",
+	"Manage your friends list.": "لیست دوستان خود را مدیریت کنید",
+	"Friends": "دوستان",
+	"Blocked users.": "کاربران مسدود شده",
+	"users You have blocked users.": "کاربران شما کاربران را مسدود کرده اید.",
+	"You have blocked no users.": "شما هیچ کاربری را مسدود نکرده اید.",
+	"So far, you have not blocked anyone in Tenyes world.": "تا کنون، شما کسی را در دنیای Tenyes بلاک نکرده اید.",
+	"Notification": "اطلاع",
+	"Turn on notifications": "نمایش اعلانها را فعال کنید",
+	"Contacts on Tenyes world": "مخاطبین در Tenyes world",
+	"Notify me when someone in my contacts list starts Tenyes world.": "وقتی کسی در لیست مخاطبین من دنیای Tenyes را شروع کرد به من اطلاع دهید.",
+	"Terms of Use": "شرایط استفاده",
+	"License": "مجوز",
+	"GSI Map Website": "وب سایت نقشه GSI",
+	"Privacy Policy": "سیاست حفظ حریم خصوصی",
+	"Personal Data Protection": "حفاظت از داده های شخصی",
+	"Changed the icon!": "آیکون را تغییر داد!",
+	"Updated!": "به روز شد!",
+	"An error has occurred, please try again": "خطایی رخ داده است، لطفاً دوباره امتحان کنید",
+	"age": "سن",
+	"Image upload failed.": "آپلود تصویر ناموفق بود.",
+	"Close": "نزدیک",
+	"Image uploaded.": "تصویر آپلود شد",
+	"Profile": "مشخصات",
+	"Preferences": "اولویت ها",
+	"Details": "جزئیات",
+	"Report friend": "گزارش دوست",
+	"Delete friend": "حذف دوست",
+	"Couldn't delete a friend.": "دوستی حذف نشد",
+	"Cannot erase people who are not my friends.": "نمی توان افرادی را که دوست شما نیستند پاک کرد.",
+	"Cannot delete myself.": "نمی توانم خودم را حذف کنم.",
+	"I deleted my friends!!!!": "دوستامو حذف کردم!!!!",
+	"Block": "مسدود کردن",
+	"Could not block.": "مسدود نشد.",
+	"You cannot block yourself.": "شما نمی توانید خودتان را بلاک کنید.",
+	"Blocked!": "مسدود!",
+	"Unblocking": "رفع انسداد",
+	"You were unable to unblock.": "شما قادر به رفع انسداد نبودید.",
+	"Cannot unblock myself.": "نمی توانم خودم را رفع انسداد کنم.",
+	"You have been unblocked!": "شما رفع انسداد شده اید!",
+	"Unblock and friend request": "رفع انسداد و درخواست دوستی",
+	"Unblocked and friend request failed.": "رفع انسداد و درخواست دوستی انجام نشد.",
+	"You are an unblocked person.": "شما یک فرد بدون انسداد هستید.",
+	"You cannot apply for yourself.": "شما نمی توانید برای خود درخواست دهید.",
+	"You have applied!": "شما درخواست داده اید!",
+	"Do you wish to cancel your membership?": "آیا می خواهید عضویت خود را لغو کنید؟",
+	"Are you sure you want to cancel your membership?": "آیا مطمئن هستید که می خواهید عضویت خود را لغو کنید؟",
+	"Are you sure you really sure?": "مطمئنی واقعا مطمئنی؟",
+	"If you cancel your membership, your friend relationship will be terminated.": "اگر عضویت خود را لغو کنید، رابطه دوستانه شما قطع خواهد شد.",
+	"Are you sure you really, really, really sure?": "آیا مطمئن هستید که واقعاً، واقعاً، واقعاً مطمئن هستید؟",
+	"When you cancel your membership, the friend relationship will be terminated.": "وقتی عضویت خود را لغو کنید، رابطه دوستانه قطع خواهد شد.",
+	"Withdrawal": "برداشت از حساب",
+	"Cancel": "لغو کنید",
+	"Unknown error occurred.": "خطای ناشناخته رخ داد.",
+	"You have unsubscribed.": "شما لغو اشتراک کرده اید.",
+	"We sincerely hope you will return one day!": "ما صمیمانه امیدواریم که شما یک روز برگردید!",
+	"Failed to unsubscribe": "لغو اشتراک ناموفق بود",
+	"Please try again": "لطفا دوباره تلاش کنید",
+	"Let's set a name!": "بیایید یک نام تعیین کنیم!",
+	"Set an ID!": "یک شناسه تنظیم کنید!",
+	"Tenyes ID": "شناسه تنیس",
+	"Add with Tenyes ID": "با شناسه Tenyes اضافه کنید",
+	"Use phone number": "از شماره تلفن استفاده کنید",
+	"Add with QR Code": "با کد QR اضافه کنید",
+	"Add by Furufuru": "افزودن توسط Furufuru",
+	"Add by Contacts": "افزودن توسط مخاطبین",
+	"Invite": "دعوت",
+	"Friend": "دوست",
+	"Distance": "فاصله",
+	"Enter your ID": "شناسه خود را وارد کنید",
+	"Only single-byte alphanumeric characters (lowercase only) and underscore (_) are allowed.": "فقط کاراکترهای الفبای عددی تک بایتی (فقط با حروف کوچک) و زیرخط (_) مجاز هستند.",
+	"Please enter a valid ID.": "لطفا یک شناسه معتبر وارد کنید.",
+	"ID has been changed": "شناسه تغییر کرده است",
+	"This ID is already in use.": "این شناسه قبلاً در حال استفاده است.",
+	"Error": "خطا",
+	"Error has occurred. Please try again in a few minutes.": "خطایی رخ داده است. لطفا چند دقیقه ی دیگر دوباره سعی کنید.",
+	"Add Friend": "افزودن دوست",
+	"Do not add": "اضافه نکن",
+	"Your QR": "QR شما",
+	"You need to set up a Tenyes ID!": "باید یک Tenyes ID تنظیم کنید!",
+	"Tenyes ID is an ID to find your friends. If you set it up, it will make it easier to find your friends.": "Tenyes ID یک شناسه برای یافتن دوستان شما است. اگر آن را تنظیم کنید، پیدا کردن دوستان خود را آسان تر می کند.",
+	"Let's exchange friends in Tenyes World! Here is my ID!": "بیایید دوستان را در Tenyes World تبادل کنیم! اینم آیدی من!",
+	"#tenyesworld\n #tenyesworldfriends\n #tenyes\n #locationsharing\n #location": "#دنیای تنی\n دوستان #tenyesworld\n #تنها\n #اشتراک گذاری مکان\n #محل",
+	"Let's share on SNS and other places!": "بیایید در SNS و جاهای دیگر به اشتراک بگذاریم!",
+	"Copy Complete!!!!": "کپی کامل!!!!",
+	"QR code, ID, your URL": "کد QR، شناسه، URL شما",
+	"Select where to share": "محل اشتراک گذاری را انتخاب کنید",
+	"Let's exchange friends on Tenyes World!": "بیایید با دوستان خود در Tenyes World تبادل نظر کنیم!",
+	"No friends found.": "هیچ دوستی پیدا نشد",
+	"Could not read the QR code.": "نمی توان کد QR را خواند.",
+	"Have you registered your Tenyes ID? , Please read the QR code again.": "آیا شناسه Tenyes خود را ثبت کرده اید؟ لطفا کد QR را دوباره بخوانید.",
+	"Already a friend.": "قبلاً یک دوست.",
+	"Error has occurred. Please try again later.": "خطایی رخ داده است. لطفاً بعداً دوباره امتحان کنید.",
+	"unnamed": "بی نام",
+	"has a friend request.": " درخواست دوستی دارد",
+	"Do not allow": "اجازه نده",
+	"Allow": "اجازه",
+	"You cannot add yourself": "شما نمی توانید خودتان را اضافه کنید",
+	"You cannot add this friend": "شما نمی توانید این دوست را اضافه کنید",
+	"He/she has been added as a friend.": "او به عنوان یک دوست اضافه شده است.",
+	"You can't deny yourself.": "شما نمی توانید خود را انکار کنید.",
+	"You cannot reject this friend.": "شما نمی توانید این دوست را رد کنید.",
+	"You have no friend requests": "شما هیچ درخواست دوستی ندارید",
+	"You have been rejected.": "شما رد شده اید.",
+	"Unknown error occurred. Code : ": "خطای ناشناخته رخ داد. کد:",
+	"Scope of disclosure of location information to selectors": "محدوده افشای اطلاعات مکان به انتخاب کنندگان",
+	"Accurate": "دقیق",
+	"Ambiguous": "مبهم",
+	"Freeze": "یخ زدگی",
+	"Ghost mode": "حالت روح",
+	"Select friends to change settings": "دوستان را برای تغییر تنظیمات انتخاب کنید",
+	"Exact Location": "مکان دقیق",
+	"Ambiguous position": "موقعیت مبهم",
+	"Select all": "انتخاب همه",
+	"Your current location will be roughly displayed": "مکان فعلی شما تقریباً نمایش داده می شود",
+	"Friends who have this setting will see that you have an \"ambiguous\" setting.": "دوستانی که این تنظیمات را دارند می بینند که شما یک تنظیمات \"مبهم\" دارید.",
+	"\"Freeze\" position": "موقعیت \"یخ زدن\".",
+	"Select All": "انتخاب همه",
+	"The same location will appear fixed, with the location information as it was before you made this \"freeze\" setting.": "همان مکان ثابت ظاهر می شود، با اطلاعات موقعیت مکانی که قبل از انجام این تنظیم \"تجمیع\" بود.",
+	"Your friends who have this setting will not see that you have set a \"freeze\".": "دوستان شما که این تنظیمات را دارند نمی بینند که شما یک \"انجماد\" تنظیم کرده اید.",
+	"day": "روز",
+	"hrs": "ساعت",
+	"min.": "دقیقه",
+	"sec.": "ثانیه",
+	"friends": "دوستان",
+	"Friends gather here": " اینجا جمع کن",
+	"unset": "تنظیم نشده",
+	"You must update!!!!": "باید آپدیت کنی!!!!",
+	"Please update from Store!": "لطفا از فروشگاه به روز رسانی کنید!",
+	"What is your name?": "اسم شما چیست؟",
+	"Enter your name": "اسمت را وارد کن",
+	"Invalid name": "نام نامعتبر",
+	"Please enter a valid name.": "لطفا یک نام معتبر وارد کنید.",
+	"Name changed!": "اسم عوض شد!",
+	"Search by Tenyes ID": "جستجو بر اساس شناسه Tenyes",
+	"Enter friend ID": "شناسه دوست را وارد کنید",
+	"Required Fields": "فیلدهای مورد نیاز",
+	"Please enter at least 3 characters": "لطفا حداقل 3 کاراکتر وارد کنید",
+	"Please enter up to 30 characters": "لطفا حداکثر 30 کاراکتر وارد کنید",
+	"Only single-byte alphanumeric characters and underscore (_) are allowed.": "فقط نویسه های الفبای عددی تک بایتی و زیرخط (_) مجاز هستند.",
+	"You have blocked this user.": "شما این کاربر را مسدود کرده اید.",
+	"Please unblock and friend request.": "لطفا رفع انسداد و درخواست دوستی کنید.",
+	"You cannot add this friend.": "شما نمی توانید این دوست را اضافه کنید.",
+	"Already a friend": "قبلاً یک دوست",
+	"You have added a friend!": "شما یک دوست اضافه کرده اید!",
+	"Already sent!": "قبلا ارسال شده!",
+	"An error has occurred. Please try again later.": "خطایی رخ داده است. لطفاً بعداً دوباره امتحان کنید.",
+	"Unknown error has occurred. Please try again in a few minutes. Code: ": "خطای نامشخصی رخ داده است. لطفا چند دقیقه ی دیگر دوباره سعی کنید. کد:",
+	"Invalid ID": "شناسه نامعتبر",
+	"Please enter correct ID.": "لطفا شناسه صحیح را وارد کنید",
+	"Compass permission is required to obtain a friend's direction.": "اجازه قطب نما برای به دست آوردن جهت یک دوست مورد نیاز است.",
+	"To use the compass, go to Settings > Privacy > Sensors > Allow Compass.": "برای استفاده از قطب نما، به Settings > Privacy > Sensors > Allow Compass بروید.",
+	"The only Tenyes ID in the world": "تنها شناسه Tenyes در جهان",
+	"My ID is this": "شناسنامه من اینه",
+	"Enjoy!!!": "لذت بردن!!!",
+	"Will be added in the next update!!!!": "در آپدیت بعدی اضافه خواهد شد!!!!",
+	"Please change the use of location information to Always Allow.": "لطفاً استفاده از اطلاعات مکان را به همیشه مجاز تغییر دهید.",
+	"In order to share accurate location information with your friends, you must always change the use of location information to Allow.": "برای به اشتراک گذاشتن اطلاعات دقیق موقعیت مکانی با دوستان خود، همیشه باید استفاده از اطلاعات موقعیت مکانی را به Allow تغییر دهید.",
+	"Always change to permit": "همیشه به اجازه تغییر دهید",
+	"sent message": "پیام فرستاده شده",
+	"Media has been sent.": "رسانه ارسال شده است.",
+	"Stamps sent": "تمبر ارسال شد",
+	"Failed to create DM channel Err:2": "کانال DM ایجاد نشد Err:2",
+	"next unlock at ": "قفل بعدی در",
+	" days": " روزها"
+}

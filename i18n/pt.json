@@ -71,7 +71,6 @@
 	"Views": "Vistas",
 	"Total viewed by friends": "Número total de vistos por amigos",
 	"Times": "Times",
-	"ATO": "",
 	"more friends to unlock": "mais amigos para desbloquear",
 	"You have opened Tenyes world for": "Abriu o mundo Tenyes para ",
 	"consecutive days.": "dias consecutivos.",
@@ -91,6 +90,7 @@
 	"Blocked users": "Utilizadores bloqueados",
 	"Map Options": "Opções do Mapa",
 	"Tenyes": "Tenyes",
+	"Tenyes Map": "Mapa Tenyes",
 	"Standard": "Norma",
 	"blended": "misturado",
 	"Unit of Distance": "Unidade de Distância",
@@ -124,6 +124,7 @@
 	"Profile": "Perfil",
 	"Preferences": "Preferências",
 	"Details": "Detalhes",
+	"Report friend": "Relatar amigo",
 	"Delete friend": "Apagar amigo",
 	"Couldn't delete a friend.": "Não era possível apagar um amigo.",
 	"Cannot erase people who are not my friends.": "Não pode apagar as pessoas que não são suas amigas.",
@@ -260,8 +261,7 @@
 	"Media has been sent.": "Os meios de comunicação foram enviados.",
 	"Stamps sent": "Carimbos enviados",
 	"Failed to create DM channel Err:2": "Falha na criação do canal DM Err:2",
-	"Tenyes Map": "Mapa Tenyes",
-	"Report friend": "Relatar amigo",
-	"next unlock at ": "próximo desbloquear em ",
-	" days": " dias"
+	"next unlock at ": "próximo desbloqueio em ",
+	" days": " dias",
+	"ATO": ""
 }
